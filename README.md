@@ -14,4 +14,4 @@ A simple and user-friendly ToDo List website that allows users to manage their t
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Bootstrap 4**
+- **Bootstrap 5**
